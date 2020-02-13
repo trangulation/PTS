@@ -1,2 +1,2 @@
 # PTS
-for school site 
+I create this project for my school website
